@@ -1,3 +1,13 @@
+# Add a blog to your Angular website using markdown files
+
+Here are the codes for this article, 
+https://dev.to/daviddalbusco/add-a-blog-to-your-angular-website-using-markdown-files-go7 
+or
+https://medium.com/@david.dalbusco/add-a-blog-to-your-angular-website-using-markdown-files-31cdb0627bdd
+
+By using ```ngx-markdown``` and Angular Universal to make a blog post website by using static *.md files. 
+
+
 # Angular Universal Starter
 
 ![Angular Universal](https://angular.io/generated/images/marketing/concept-icons/universal.png)
