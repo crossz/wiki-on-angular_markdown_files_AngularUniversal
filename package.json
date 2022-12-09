@@ -45,7 +45,7 @@
     "@nguniversal/express-engine": "^6.0.0",
     "@nguniversal/module-map-ngfactory-loader": "^6.0.0",
     "core-js": "^2.4.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "ngx-markdown": "^8.1.0",
     "reflect-metadata": "^0.1.10",
     "rxjs": "6.3.3",
